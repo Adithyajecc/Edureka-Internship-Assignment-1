@@ -1,0 +1,174 @@
+body{
+    margin:auto;
+
+}
+.title{
+background-color: #Ce0505;
+margin:0 0 0 0;
+padding:10px;
+border: 1px solid #Ce0505;
+}
+#logo{
+    font-size:50px;
+    text-align:center;
+    color:#eb2929;
+    height:70px;
+    width:70px;
+    border-radius: 50%;
+    display: inline-block;
+     background-color: white;
+     margin-left: 100px;
+}
+#login{
+    color:white;
+    display: inline-block;
+    margin-left: 800px;
+}
+#create{
+    color: white;
+    display:inline-block;
+    margin-left: 25px;
+    border:1px solid white;
+    line-height: normal;
+    font-weight: normal;
+    padding: 10px;
+}
+#im{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-left: 133px;
+    margin-right: 123px;
+    color:#192f60;
+}
+#gallery-button{
+    height:50px;
+    background-color:ghostwhite;
+     opacity: 0.8;
+     text-align: center;
+     margin: 280 10 0 870;
+    font-weight: bolder;
+    color:#192f60;
+    border-style: none;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.restd,.restdes{
+    margin-left: 133px;
+    margin-right: 123px;
+    color:#192f60;
+}
+.Underline{
+    width: 1366px;
+    height: 1441px;
+    background-color: wheat;
+  }
+.overview{
+    display: inline-block;
+    font-family: Poppins;
+  font-size: 22px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60
+}
+.contact{
+    display: inline-block;
+    color:#192f60;
+    font-size: 22px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 25px;
+    margin-left: 50px;
+    font-stretch: semi-condensed;
+
+}
+.image-gallery{
+    height:350px;
+    width: 1100px;
+    background:url(breakfast.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50 100 0 120;
+}
+.about{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#192f60;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.cusine-details,.cost-details{
+    font-size: 17px;
+    font-family: 'Barlow Condensed',sans-serif;
+    color:#192f60;
+}
+.cuisine,.cost{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #192f60;
+
+}
+.no{
+    color:#f67082;
+    font-size: 16px;
+}
+.hot-details{
+    font-size: large;
+}
+.gal{
+    margin-left: 250px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.prev{
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    margin-left:-200px ;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  .next{
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    margin-left: 1100px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  .but{
+        position: absolute;
+        top: 8px;
+        right: 16px;
+        font-size: 25px;
+        margin-right: 100px;
+        margin-top: 100px;
+  }
+#b{
+    border-radius: 50%;
+    background-color: ghostwhite;
+    opacity: 0.5;
+}
+#iml{
+    height:80%;
+    width:80%;
+}
