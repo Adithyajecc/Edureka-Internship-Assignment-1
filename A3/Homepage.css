@@ -1,0 +1,115 @@
+.imageContainer{
+    background: url('https://i.postimg.cc/76kStDSv/food-wallpaper.png');
+    border-style:solid;
+    background-repeat: none;
+    background-size: cover;
+}
+#logo
+{
+    text-align:center;
+    color:red;
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    font-size: 90px;
+    margin:auto;
+    border-radius:50%;
+    font-weight: 60px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    border: none;
+}
+.Heading{
+text-align: center;
+color:white;
+font-size: 36px;
+margin: auto;
+}
+.locationselector{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.locationDropdown{
+    width: 250px;
+    height:60px;
+    border-radius: 5%;
+    font-size: 20px;
+    border:none;
+}
+.Restaurantinput{       
+    border:none;
+    width: 250px;
+    height:60px;
+    border-radius: 5%;
+    font-size: 20px;
+}
+#set{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: none;
+    font-size:x-large;
+}
+.QuickSearchContainer{
+    margin-left: 115px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.QuickSearchHeading{
+    text-align: left;
+    color:#192f60;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    line-height: .5;
+}
+.quicksearchsubheading{
+    text-align: left;
+    color:grey;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:normal;
+    line-height: .5;
+    letter-spacing: normal;  
+}
+.tilecontainer{
+    margin-right: 30px;
+    margin-bottom: 30px;
+    widows: 400px;
+    background-color:white;
+    display:inline-block;
+    box-shadow: 0 3px 6px black;
+
+}
+.tilecomponent{
+    width:50%;
+    float:left;
+}
+.componentheading
+{
+    margin-top: 25px;
+    text-align:left;
+    color:#192f60;
+    font-size:18px;
+    font-weight: bold;
+ }
+.componentsubheading
+{
+    margin-top: 25px;
+    text-align:left;
+    color:grey;
+    font-size:14px;
+ }
+ .searchicon{
+    height:60px;
+    width:60px;
+    border-radius:50%;
+    border:1px solid gray;
+    font-weight: bold;
+    font-size:25px;
+}
+.consoleinfo{
+    margin-left: auto;
+    text-align: left;
+}
